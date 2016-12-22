@@ -72,13 +72,8 @@
         Next j
 
         'Here we calcucate the sum of the elements below the main diagonal
-        For j = 0 To maxIndex Step 1
-            For i = 0 To (j - 1) Step 1
-                sum += temp_array(j, i)
-            Next i
-        Next j
-
-        Console.Write("The sum is: ")
+        
+        Console.Write("Hello, world!")
         Console.WriteLine(Math.Round(sum, 2))
 
         Console.Read()
