@@ -1,9 +1,0 @@
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\bin\Debug\forAGirl.exe.config
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\bin\Debug\forAGirl.exe
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\bin\Debug\forAGirl.pdb
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\bin\Debug\forAGirl.xml
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\obj\Debug\forAGirl.Resources.resources
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\obj\Debug\forAGirl.vbproj.GenerateResource.Cache
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\obj\Debug\forAGirl.exe
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\obj\Debug\forAGirl.xml
-D:\Developer\Software engineering\forAGirlProject\forAGirl\forAGirl\obj\Debug\forAGirl.pdb
